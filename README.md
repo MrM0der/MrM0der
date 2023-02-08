@@ -1,6 +1,6 @@
 ### Здравствуйте. 👋 Я [MrM0der](https://github.com/MrM0der/MrM0der/)
 
-<img align="right" alt="GIF" height="160px" src="https://cdn.discordapp.com/attachments/1049305877959676038/1072839433491054602/image.png" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/MrM0der/MrM0der/raw/main/image.png" />
 
 ## Я самый обычный среднестатистический линуксоид. 🐧
 
